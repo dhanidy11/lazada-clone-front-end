@@ -1,0 +1,43 @@
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+body {
+  color: #999;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: blue;
+  align-items: center;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  justify-content: flex-end;
+  margin: auto;
+  height: 25px;
+  width: 1188px;
+}
+
+.navbar-links {
+  line-height: 25px;
+  padding: 0 17px 0 17px;
+}
+
+.navbar-links a {
+  color: black;
+  text-decoration: none;
+}
+
+.logo-area {
+  margin: auto;
+  width: 1188px;
+}
+
+.laz-logo {
+  width: 127px;
+  height: 40px;
+}
